@@ -1,0 +1,100 @@
+{
+  "fecha": "2026-01-15",
+  "generado": "05:15",
+  "esencial": [
+    { "titular": "Primer titular de ejemplo, con la idea principal del día.", "texto": "Una frase de contexto que explica el dato más importante." },
+    { "titular": "Segundo titular de ejemplo.", "texto": "Otra frase breve con lo que hay que saber." },
+    { "titular": "Tercer titular de ejemplo.", "texto": "Y una tercera, para ver cómo queda la lista." }
+  ],
+  "agenda": {
+    "consultada": "05:02",
+    "hoy": [
+      { "inicio": "09:30", "fin": "10:00", "titulo": "Reunión de equipo", "lugar": "Videollamada" },
+      { "inicio": "11:00", "fin": "11:30", "titulo": "Seguimiento del proyecto", "lugar": "Videollamada" },
+      { "inicio": "13:00", "fin": "14:00", "titulo": "Comida", "lugar": "Centro" }
+    ],
+    "resumen": "Mañana de tres citas entre las 9:30 y las 14:00. La tarde queda libre.",
+    "proximos": [
+      { "dia": "Sábado 16", "eventos": [{ "inicio": "12:00", "fin": "14:00", "titulo": "Deporte", "lugar": "Polideportivo" }] },
+      { "dia": "Domingo 17", "eventos": [{ "inicio": "13:00", "fin": "17:00", "titulo": "Comida familiar", "lugar": "Casa" }] }
+    ]
+  },
+  "tiempo": {
+    "ciudad": "Madrid",
+    "resumen": "Nubes y claros, con lluvia débil por la tarde.",
+    "min": 8.2, "max": 13.0, "lluvia_pct": 28, "lluvia_mm": 0.5,
+    "horas": [
+      { "hora": "07:30", "temp": 8.5 }, { "hora": "09:30", "temp": 9.4 }, { "hora": "11:30", "temp": 11.2 },
+      { "hora": "13:30", "temp": 12.4 }, { "hora": "15:30", "temp": 12.9 }, { "hora": "17:30", "temp": 12.1 },
+      { "hora": "19:30", "temp": 11.3 }, { "hora": "21:30", "temp": 10.7 }, { "hora": "23:30", "temp": 10.2 },
+      { "hora": "03:30", "temp": 9.9 }, { "hora": "07:30", "temp": 9.8 }
+    ],
+    "dias": [
+      { "dia": "Hoy", "fecha": "15/01", "icono": "lluvia", "min": 8.2, "max": 13.0, "lluvia_pct": 28, "lluvia_mm": 0.5 },
+      { "dia": "Sáb", "fecha": "16/01", "icono": "lluvia", "min": 9.7, "max": 12.3, "lluvia_pct": 74, "lluvia_mm": 10.3 },
+      { "dia": "Dom", "fecha": "17/01", "icono": "nubes", "min": 7.8, "max": 13.6, "lluvia_pct": 20, "lluvia_mm": 0.0 },
+      { "dia": "Lun", "fecha": "18/01", "icono": "sol", "min": 4.5, "max": 13.1, "lluvia_pct": 0, "lluvia_mm": 0.0 }
+    ],
+    "otras": [{ "ciudad": "Otra ciudad", "texto": "Cielo cubierto · Mín 10,9° · Máx 16,3° · Lluvia 0 %" }]
+  },
+  "secciones": [
+    {
+      "titulo": "Internacional", "cierre": "05:15",
+      "noticias": [
+        { "destacada": true, "etiqueta": "Diplomacia", "titular": "Titular principal de ejemplo de la sección internacional",
+          "entradilla": "Entradilla que resume la noticia en una o dos líneas.",
+          "texto": ["Primer párrafo del cuerpo de la noticia, con el detalle de lo ocurrido.", "Segundo párrafo con el contexto."],
+          "lectura": "Por qué importa esta noticia, en una frase.",
+          "fuentes": [{ "nombre": "Fuente A", "url": "https://example.com/a" }, { "nombre": "Fuente B" }] },
+        { "etiqueta": "Economía", "titular": "Segunda noticia de ejemplo", "entradilla": "Una entradilla más corta.",
+          "texto": "Cuerpo de la segunda noticia.", "lectura": "Una lectura breve.", "fuentes": [{ "nombre": "Fuente C" }] },
+        { "etiqueta": "Sociedad", "titular": "Tercera noticia de ejemplo, con un titular algo más largo para ver el ajuste",
+          "entradilla": "Entradilla de la tercera.", "texto": "Cuerpo de la tercera noticia.", "fuentes": [{ "nombre": "Fuente D" }] }
+      ]
+    },
+    {
+      "titulo": "Economía", "cierre": "05:15",
+      "indicadores": [
+        { "nombre": "Índice A", "valor": "19.186,20", "nota": "-0,97 % · cierre" },
+        { "nombre": "Índice B", "valor": "7.175,83", "nota": "-2,02 % · cierre" },
+        { "nombre": "Petróleo", "valor": "90,14 $", "nota": "Futuro · cierre" },
+        { "nombre": "Oro", "valor": "3.556,10 $", "nota": "Futuro · cierre" }
+      ],
+      "noticias": [
+        { "destacada": true, "etiqueta": "Mercados", "titular": "Titular económico de ejemplo",
+          "entradilla": "Entradilla con la cifra clave.", "texto": "Cuerpo de la noticia económica.",
+          "lectura": "Qué significa para los próximos días.", "fuentes": [{ "nombre": "Fuente E" }] }
+      ]
+    }
+  ],
+  "prediccion": {
+    "nota": "Precios implícitos, no certezas.",
+    "contratos": [
+      { "titulo": "Contrato de ejemplo A", "detalle": "Condición de resolución", "prob": 69.5 },
+      { "titulo": "Contrato de ejemplo B", "detalle": "Condición de resolución", "prob": 26 },
+      { "titulo": "Contrato de ejemplo C", "detalle": "Condición de resolución", "prob": 2.5 }
+    ],
+    "comentario": ["Comentario breve sobre cómo se han movido los mercados de predicción."]
+  },
+  "bolsa": [
+    {
+      "titulo": "Mundo", "subtitulo": "Mayores empresas por capitalización · cierre de ayer",
+      "empresas": [
+        { "puesto": 1, "nombre": "Empresa A", "ticker": "AAA", "cap": "5,07 T$", "dia": -0.9, "semana": -2.4, "ytd": 28.3, "anual": 31.5 },
+        { "puesto": 2, "nombre": "Empresa B", "ticker": "BBB", "cap": "3,70 T$", "dia": -2.0, "semana": -4.4, "ytd": 2.9, "anual": 1.7 },
+        { "puesto": 3, "nombre": "Empresa C", "ticker": "CCC", "cap": "3,52 T$", "dia": -3.3, "semana": -3.3, "ytd": -23.1, "anual": -21.0 },
+        { "puesto": 4, "nombre": "Empresa D", "ticker": "DDD", "cap": "3,32 T$", "dia": -3.5, "semana": -7.2, "ytd": -14.0, "anual": -5.0 },
+        { "puesto": 5, "nombre": "Empresa E", "ticker": "EEE", "cap": "2,78 T$", "dia": -3.9, "semana": -3.9, "ytd": 11.3, "anual": 15.0 },
+        { "puesto": 6, "nombre": "Empresa F", "ticker": "FFF", "cap": "1,88 T$", "dia": -3.5, "semana": 0.4, "ytd": -7.7, "anual": -7.7 },
+        { "puesto": 7, "nombre": "Empresa G", "ticker": "GGG", "cap": "1,71 T$", "dia": -4.3, "semana": -15.4, "ytd": 29.3, "anual": 38.6 },
+        { "puesto": 8, "nombre": "Empresa H", "ticker": "HHH", "cap": "1,70 T$", "dia": 0.2, "semana": 1.7, "ytd": 11.1, "anual": 2.5 }
+      ]
+    }
+  ],
+  "evolucion": [
+    { "nombre": "Índice A", "detalle": "Índice · puntos · cierre diario", "ultimo": "7.176 pts", "ytd": 4.8, "anual": 9.7,
+      "serie": [6600, 6700, 6750, 6820, 6790, 6700, 6400, 6650, 6900, 7100, 7250, 7300, 7400, 7450, 7600, 7700, 7650, 7750, 7800, 7600, 7176] },
+    { "nombre": "Activo B", "detalle": "USD · cierre diario", "ultimo": "61.935 $", "ytd": -29.2, "anual": -28.5,
+      "serie": [86000, 91000, 88000, 95000, 70000, 66000, 68000, 72000, 78000, 80000, 76000, 62000, 60000, 63000, 64000, 78000, 80000, 84000, 82000, 78000, 61935] }
+  ]
+}
