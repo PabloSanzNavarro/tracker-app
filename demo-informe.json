@@ -1,0 +1,1043 @@
+{
+  "fecha": "2026-01-15",
+  "generado": "05:15",
+  "esencial": [
+    {
+      "titular": "Primer titular de ejemplo, con la idea principal del día.",
+      "texto": "Una frase de contexto que explica el dato más importante."
+    },
+    {
+      "titular": "Segundo titular de ejemplo.",
+      "texto": "Otra frase breve con lo que hay que saber."
+    },
+    {
+      "titular": "Tercer titular de ejemplo.",
+      "texto": "Y una tercera, para ver cómo queda la lista."
+    }
+  ],
+  "agenda": {
+    "consultada": "05:02",
+    "hoy": [
+      {
+        "inicio": "09:30",
+        "fin": "10:00",
+        "titulo": "Reunión de equipo",
+        "lugar": "Videollamada"
+      },
+      {
+        "inicio": "11:00",
+        "fin": "11:30",
+        "titulo": "Seguimiento del proyecto",
+        "lugar": "Videollamada"
+      },
+      {
+        "inicio": "13:00",
+        "fin": "14:00",
+        "titulo": "Comida",
+        "lugar": "Centro"
+      }
+    ],
+    "proximos": [
+      {
+        "dia": "Sábado 16",
+        "eventos": [
+          {
+            "inicio": "12:00",
+            "fin": "14:00",
+            "titulo": "Deporte",
+            "lugar": "Polideportivo"
+          }
+        ]
+      },
+      {
+        "dia": "Domingo 17",
+        "eventos": [
+          {
+            "inicio": "13:00",
+            "fin": "17:00",
+            "titulo": "Comida familiar",
+            "lugar": "Casa"
+          }
+        ]
+      }
+    ]
+  },
+  "tiempo": {
+    "ciudad": "Madrid",
+    "resumen": "Nubes y claros, con lluvia débil por la tarde.",
+    "dias": [
+      {
+        "dia": "Hoy",
+        "fecha": "15/01",
+        "icono": "lluvia",
+        "min": 8.2,
+        "max": 13.0,
+        "lluvia_pct": 28,
+        "lluvia_mm": 0.5,
+        "amanecer": "08:35",
+        "atardecer": "18:05",
+        "horas": [
+          {
+            "hora": "00:00",
+            "temp": 8.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "01:00",
+            "temp": 8.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "02:00",
+            "temp": 8.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "03:00",
+            "temp": 8.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "04:00",
+            "temp": 8.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "05:00",
+            "temp": 8.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "06:00",
+            "temp": 8.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "07:00",
+            "temp": 8.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "08:00",
+            "temp": 9.1,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "09:00",
+            "temp": 10.0,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "10:00",
+            "temp": 10.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "11:00",
+            "temp": 11.6,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "12:00",
+            "temp": 12.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "13:00",
+            "temp": 12.6,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "14:00",
+            "temp": 12.9,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "15:00",
+            "temp": 13.0,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "16:00",
+            "temp": 12.9,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "17:00",
+            "temp": 12.6,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "18:00",
+            "temp": 12.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "19:00",
+            "temp": 11.6,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "20:00",
+            "temp": 10.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "21:00",
+            "temp": 10.0,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "22:00",
+            "temp": 9.1,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "23:00",
+            "temp": 8.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          }
+        ]
+      },
+      {
+        "dia": "Sáb",
+        "fecha": "16/01",
+        "icono": "lluvia",
+        "min": 9.7,
+        "max": 12.3,
+        "lluvia_pct": 74,
+        "lluvia_mm": 10.3,
+        "amanecer": "08:35",
+        "atardecer": "18:05",
+        "horas": [
+          {
+            "hora": "00:00",
+            "temp": 9.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "01:00",
+            "temp": 9.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "02:00",
+            "temp": 9.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "03:00",
+            "temp": 9.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "04:00",
+            "temp": 9.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "05:00",
+            "temp": 9.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "06:00",
+            "temp": 9.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "07:00",
+            "temp": 9.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "08:00",
+            "temp": 10.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "09:00",
+            "temp": 10.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "10:00",
+            "temp": 11.1,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "11:00",
+            "temp": 11.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "12:00",
+            "temp": 11.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "13:00",
+            "temp": 12.1,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "14:00",
+            "temp": 12.3,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "15:00",
+            "temp": 12.3,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "16:00",
+            "temp": 12.3,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "17:00",
+            "temp": 12.1,
+            "lluvia_pct": 70,
+            "lluvia_mm": 0.5
+          },
+          {
+            "hora": "18:00",
+            "temp": 11.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "19:00",
+            "temp": 11.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "20:00",
+            "temp": 11.1,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "21:00",
+            "temp": 10.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "22:00",
+            "temp": 10.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "23:00",
+            "temp": 9.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          }
+        ]
+      },
+      {
+        "dia": "Dom",
+        "fecha": "17/01",
+        "icono": "nubes",
+        "min": 7.8,
+        "max": 13.6,
+        "lluvia_pct": 20,
+        "lluvia_mm": 0.0,
+        "amanecer": "08:35",
+        "atardecer": "18:05",
+        "horas": [
+          {
+            "hora": "00:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "01:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "02:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "03:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "04:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "05:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "06:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "07:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "08:00",
+            "temp": 8.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "09:00",
+            "temp": 10.0,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "10:00",
+            "temp": 11.0,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "11:00",
+            "temp": 11.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "12:00",
+            "temp": 12.6,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "13:00",
+            "temp": 13.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "14:00",
+            "temp": 13.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "15:00",
+            "temp": 13.6,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "16:00",
+            "temp": 13.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "17:00",
+            "temp": 13.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "18:00",
+            "temp": 12.6,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "19:00",
+            "temp": 11.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "20:00",
+            "temp": 11.0,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "21:00",
+            "temp": 10.0,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "22:00",
+            "temp": 8.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "23:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          }
+        ]
+      },
+      {
+        "dia": "Lun",
+        "fecha": "18/01",
+        "icono": "sol",
+        "min": 4.5,
+        "max": 13.1,
+        "lluvia_pct": 0,
+        "lluvia_mm": 0.0,
+        "amanecer": "08:35",
+        "atardecer": "18:05",
+        "horas": [
+          {
+            "hora": "00:00",
+            "temp": 4.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "01:00",
+            "temp": 4.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "02:00",
+            "temp": 4.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "03:00",
+            "temp": 4.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "04:00",
+            "temp": 4.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "05:00",
+            "temp": 4.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "06:00",
+            "temp": 4.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "07:00",
+            "temp": 4.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "08:00",
+            "temp": 6.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "09:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "10:00",
+            "temp": 9.3,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "11:00",
+            "temp": 10.6,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "12:00",
+            "temp": 11.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "13:00",
+            "temp": 12.4,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "14:00",
+            "temp": 12.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "15:00",
+            "temp": 13.1,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "16:00",
+            "temp": 12.9,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "17:00",
+            "temp": 12.4,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "18:00",
+            "temp": 11.7,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "19:00",
+            "temp": 10.6,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "20:00",
+            "temp": 9.3,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "21:00",
+            "temp": 7.8,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "22:00",
+            "temp": 6.2,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          },
+          {
+            "hora": "23:00",
+            "temp": 4.5,
+            "lluvia_pct": 10,
+            "lluvia_mm": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "secciones": [
+    {
+      "titulo": "Internacional",
+      "noticias": [
+        {
+          "destacada": true,
+          "etiqueta": "Diplomacia",
+          "titular": "Titular principal de ejemplo de la sección internacional",
+          "entradilla": "Entradilla que resume la noticia en una o dos líneas.",
+          "texto": [
+            "Primer párrafo del cuerpo de la noticia, con el detalle de lo ocurrido.",
+            "Segundo párrafo con el contexto."
+          ],
+          "lectura": "Por qué importa esta noticia, en una frase.",
+          "fuentes": [
+            {
+              "nombre": "Fuente A",
+              "url": "https://example.com/a"
+            },
+            {
+              "nombre": "Fuente B"
+            }
+          ]
+        },
+        {
+          "etiqueta": "Economía",
+          "titular": "Segunda noticia de ejemplo",
+          "entradilla": "Una entradilla más corta.",
+          "texto": "Cuerpo de la segunda noticia.",
+          "lectura": "Una lectura breve.",
+          "fuentes": [
+            {
+              "nombre": "Fuente C"
+            }
+          ]
+        },
+        {
+          "etiqueta": "Sociedad",
+          "titular": "Tercera noticia de ejemplo, con un titular algo más largo para ver el ajuste",
+          "entradilla": "Entradilla de la tercera.",
+          "texto": "Cuerpo de la tercera noticia.",
+          "fuentes": [
+            {
+              "nombre": "Fuente D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Economía",
+      "indicadores": [
+        {
+          "nombre": "Índice A",
+          "valor": "6.910",
+          "dia": -0.9,
+          "semana": -2.4,
+          "max_dif": -4.1,
+          "max_semanas": 3
+        },
+        {
+          "nombre": "Índice B",
+          "valor": "19.186",
+          "dia": 0.6,
+          "semana": 1.8,
+          "max_dif": 0,
+          "max_semanas": 0
+        },
+        {
+          "nombre": "Oro",
+          "valor": "3.556 $",
+          "dia": 0.3,
+          "semana": -1.2,
+          "max_dif": -12.5,
+          "max_semanas": 20
+        },
+        {
+          "nombre": "Bitcoin",
+          "valor": "61.935 $",
+          "dia": -2.1,
+          "semana": -7.5,
+          "max_dif": -48.0,
+          "max_semanas": 52
+        }
+      ],
+      "noticias": [
+        {
+          "destacada": true,
+          "etiqueta": "Mercados",
+          "titular": "Titular económico de ejemplo",
+          "entradilla": "Entradilla con la cifra clave.",
+          "texto": "Cuerpo de la noticia económica.",
+          "lectura": "Qué significa para los próximos días.",
+          "fuentes": [
+            {
+              "nombre": "Fuente E"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prediccion": {
+    "resumen": [
+      "Resumen de ejemplo con los mercados que más se han movido en las últimas 24 horas."
+    ],
+    "contratos": [
+      {
+        "tema": "Economía",
+        "mercado": "Mercado de ejemplo A",
+        "favorito": "Opción favorita",
+        "prob": 92,
+        "otras": [
+          {
+            "nombre": "Opción B",
+            "prob": 6
+          },
+          {
+            "nombre": "Opción C",
+            "prob": 2
+          }
+        ]
+      },
+      {
+        "tema": "Geopolítica",
+        "mercado": "Mercado de ejemplo B",
+        "favorito": "Sí",
+        "prob": 71.5
+      },
+      {
+        "tema": "IA",
+        "mercado": "Mercado de ejemplo C",
+        "favorito": "Candidato A",
+        "prob": 38,
+        "otras": [
+          {
+            "nombre": "Candidato B",
+            "prob": 24
+          }
+        ]
+      }
+    ]
+  },
+  "bolsa": [
+    {
+      "titulo": "Mundo",
+      "subtitulo": "Las mayores empresas por capitalización",
+      "empresas": [
+        {
+          "puesto": 1,
+          "nombre": "Empresa A",
+          "ticker": "AAA",
+          "cap": "5,07 T$",
+          "dia": -0.9,
+          "semana": -2.4,
+          "ytd": 28.3,
+          "anual": 31.5,
+          "max_dif": -3.2
+        },
+        {
+          "puesto": 2,
+          "nombre": "Empresa B",
+          "ticker": "BBB",
+          "cap": "3,70 T$",
+          "dia": -2.0,
+          "semana": -4.4,
+          "ytd": 2.9,
+          "anual": 1.7,
+          "max_dif": -8.1
+        },
+        {
+          "puesto": 3,
+          "nombre": "Empresa C",
+          "ticker": "CCC",
+          "cap": "3,52 T$",
+          "dia": -3.3,
+          "semana": -3.3,
+          "ytd": -23.1,
+          "anual": -21.0,
+          "max_dif": -25.4
+        },
+        {
+          "puesto": 4,
+          "nombre": "Empresa D",
+          "ticker": "DDD",
+          "cap": "3,32 T$",
+          "dia": -3.5,
+          "semana": -7.2,
+          "ytd": -14.0,
+          "anual": -5.0,
+          "max_dif": -14.0
+        },
+        {
+          "puesto": 5,
+          "nombre": "Empresa E",
+          "ticker": "EEE",
+          "cap": "2,78 T$",
+          "dia": -3.9,
+          "semana": -3.9,
+          "ytd": 11.3,
+          "anual": 15.0,
+          "max_dif": 0
+        },
+        {
+          "puesto": 6,
+          "nombre": "Empresa F",
+          "ticker": "FFF",
+          "cap": "1,88 T$",
+          "dia": -3.5,
+          "semana": 0.4,
+          "ytd": -7.7,
+          "anual": -7.7,
+          "max_dif": -9.9
+        },
+        {
+          "puesto": 7,
+          "nombre": "Empresa G",
+          "ticker": "GGG",
+          "cap": "1,71 T$",
+          "dia": -4.3,
+          "semana": -15.4,
+          "ytd": 29.3,
+          "anual": 38.6,
+          "max_dif": -31.2
+        },
+        {
+          "puesto": 8,
+          "nombre": "Empresa H",
+          "ticker": "HHH",
+          "cap": "1,70 T$",
+          "dia": 0.2,
+          "semana": 1.7,
+          "ytd": 11.1,
+          "anual": 2.5,
+          "max_dif": -1.5
+        }
+      ]
+    }
+  ],
+  "evolucion": [
+    {
+      "nombre": "Índice A",
+      "ultimo": "7.176 pts",
+      "anual": 9.7,
+      "serie": [
+        6600,
+        6700,
+        6750,
+        6820,
+        6790,
+        6700,
+        6400,
+        6650,
+        6900,
+        7100,
+        7250,
+        7300,
+        7400,
+        7450,
+        7600,
+        7700,
+        7650,
+        7750,
+        7800,
+        7600,
+        7176
+      ],
+      "max_dif": -2.0,
+      "max_semanas": 2
+    },
+    {
+      "nombre": "Activo B",
+      "ultimo": "61.935 $",
+      "anual": -28.5,
+      "serie": [
+        86000,
+        91000,
+        88000,
+        95000,
+        70000,
+        66000,
+        68000,
+        72000,
+        78000,
+        80000,
+        76000,
+        62000,
+        60000,
+        63000,
+        64000,
+        78000,
+        80000,
+        84000,
+        82000,
+        78000,
+        61935
+      ],
+      "max_dif": -45.0,
+      "max_semanas": 50
+    }
+  ],
+  "evangelio": {
+    "liturgia": "Jueves de la II semana del Tiempo Ordinario",
+    "cita": "Marcos 3, 7-12",
+    "texto": [
+      "Primer párrafo de ejemplo del Evangelio del día, con la escena inicial.",
+      "Segundo párrafo, cuando cambia quien habla o la acción.",
+      "Tercer párrafo con el cierre del pasaje."
+    ],
+    "santo": {
+      "nombre": "San Ejemplo, obispo",
+      "texto": "Dos o tres frases sobre la vida del santo del día."
+    },
+    "fuentes": [
+      {
+        "nombre": "Fuente litúrgica"
+      }
+    ]
+  },
+  "sonrisa": {
+    "buena_noticia": {
+      "titular": "Titular de ejemplo de una buena noticia",
+      "texto": "Una o dos frases que la explican.",
+      "fuentes": [
+        {
+          "nombre": "Fuente F"
+        }
+      ]
+    },
+    "chiste": [
+      "—Primera línea del chiste de ejemplo.",
+      "—Y el remate."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Un dato curioso de ejemplo",
+        "texto": "Su explicación en una frase."
+      },
+      {
+        "titulo": "Otro dato curioso",
+        "texto": "Y otra explicación breve."
+      }
+    ]
+  }
+}
